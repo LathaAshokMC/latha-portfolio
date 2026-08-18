@@ -720,10 +720,10 @@ nav {
 
     /* Hero */
     #hero {
-        flex-direction: column;
-        text-align: center;
-        padding: 80px 20px 40px;
-        min-height: auto;
+    flex-direction: column;
+    text-align: center;
+    padding: 100px 25px 50px;
+    min-height: auto;
     }
 
     #hero img {
